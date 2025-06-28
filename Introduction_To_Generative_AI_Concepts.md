@@ -6,14 +6,11 @@
 <body>
     <header>
         <h1>Generative AI Fundamentals Quiz</h1>
-        <p>This is a quiz covering the core concepts of generative AI, based on the Microsoft Learn module "Introduction to generative AI concepts." It includes Multiple Choice, True/False, and Matching questions.</p>
     </header>
     <hr class="section-divider">
     <main>
         <section id="multiple-choice-questions">
-            <h2>Multiple Choice Questions (MCQ)</h2>
             <section class="question-group">
-                <h3>Module 1: What is generative AI?</h3>
                 <h4>1. What is the primary function of generative AI?</h4>
                 <ol type="a">
                     <li>Analyzing existing data</li>
@@ -71,7 +68,6 @@
                 </details>
             </section>
             <section class="question-group">
-                <h3>Module 2: How do language models work?</h3>
                 <h4>6. What does a Large Language Model (LLM) primarily do?</h4>
                 <ol type="a">
                     <li>Generate images from text descriptions</li>
@@ -129,7 +125,6 @@
                 </details>
             </section>
             <section class="question-group">
-                <h3>Module 3: Understand how transformers advance language models</h3>
                 <h4>11. What is the primary mechanism that distinguishes transformer models from older models like RNNs?</h4>
                 <ol type="a">
                     <li>Recurrent connections</li>
@@ -187,7 +182,6 @@
                 </details>
             </section>
             <section class="question-group">
-                <h3>Module 4: Understand differences in language models</h3>
                 <h4>16. Which type of language model is trained to predict the next word in a sequence and is often used for text generation?</h4>
                 <ol type="a">
                     <li>Encoder-only models</li>
@@ -245,7 +239,6 @@
                 </details>
             </section>
             <section class="question-group">
-                <h3>Module 5: Improve prompt results</h3>
                 <h4>21. What is "prompt engineering"?</h4>
                 <ol type="a">
                     <li>The process of training a language model</li>
@@ -358,7 +351,6 @@
                 </details>
             </section>
             <section class="question-group">
-                <h3>Module 6: Create responsible generative AI solutions</h3>
                 <h4>31. What is a "hallucination" in the context of generative AI?</h4>
                 <ol type="a">
                     <li>The model generating creative and imaginative stories.</li>
@@ -586,7 +578,6 @@
         </section>
         <hr class="section-divider">
         <section id="true-or-false">
-            <h2>True or False</h2>
             <section class="question-group">
                 <h4>51. Generative AI models are only capable of generating text.</h4>
                 <details>
@@ -792,7 +783,6 @@
         </section>
         <hr class="section-divider">
         <section id="match-the-following">
-            <h2>Match the Following</h2>
             <section class="question-group">
                 <h3>Match the prompting technique with its description:</h3>
                 <p>91. <strong>Zero-shot prompting</strong></p>
