@@ -5,15 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body>
     <header>
-        <h1>100 Questions on Generative AI on Azure</h1>
-        <p>Based on Microsoft Learn Modules: Get started with generative AI on Azure</p>
+        <h1>Generative AI on Azure</h1>
     </header>
     <hr class="section-divider">
     <main>
         <section id="multiple-choice-questions">
-            <h2>Multiple Choice Questions</h2>
             <section class="question-group">
-                <h3>Part 1: Generative AI Fundamentals</h3>
                 <h4>1. What is the primary function of a generative AI model?</h4>
                 <ol type="a">
                     <li>To classify data.</li>
@@ -71,7 +68,6 @@
                 </details>
             </section>
             <section class="question-group">
-                <h3>True or False</h3>
                 <h4>6. Generative AI models are always 100% accurate and do not require human review.</h4>
                 <details>
                     <summary>Show Answer</summary>
@@ -131,9 +127,7 @@
             </section>
         </section>
         <section id="large-language-models">
-            <h2>Part 2: Large Language Models (LLMs) & Prompting</h2>
             <section class="question-group">
-                <h3>Multiple Choice Questions</h3>
                 <h4>13. What does "LLM" stand for?</h4>
                 <ol type="a">
                     <li>Lightweight Learning Module</li>
@@ -191,7 +185,6 @@
                 </details>
             </section>
             <section class="question-group">
-                <h3>True or False</h3>
                 <h4>18. A "system message" in a prompt is used to define the model's persona and instructions.</h4>
                 <details>
                     <summary>Show Answer</summary>
@@ -251,9 +244,7 @@
             </section>
         </section>
         <section id="tools-to-develop-generative-ai-solutions">
-            <h2>Part 3: Tools to Develop Generative AI Solutions</h2>
             <section class="question-group">
-                <h3>Multiple Choice Questions</h3>
                 <h4>25. What Azure service provides access to OpenAI's powerful language models with enterprise-grade security?</h4>
                 <ol type="a">
                     <li>Azure Machine Learning</li>
@@ -311,7 +302,6 @@
                 </details>
             </section>
             <section class="question-group">
-                <h3>True or False</h3>
                 <h4>30. Azure AI Studio's playground is intended for production-level deployments.</h4>
                 <details>
                     <summary>Show Answer</summary>
@@ -371,9 +361,7 @@
             </section>
         </section>
         <section id="azure-ai-studio-model-catalog">
-            <h2>Part 4: Azure AI Studio Model Catalog</h2>
             <section class="question-group">
-                <h3>Multiple Choice Questions</h3>
                 <h4>37. What is the primary purpose of the Model Catalog in Azure AI Studio?</h4>
                 <ol type="a">
                     <li>To sell AI models.</li>
@@ -431,7 +419,6 @@
                 </details>
             </section>
             <section class="question-group">
-                <h3>True or False</h3>
                 <h4>42. Every model in the Azure AI Studio Model Catalog is open source.</h4>
                 <details>
                     <summary>Show Answer</summary>
@@ -472,9 +459,7 @@
             </section>
         </section>
         <section id="azure-ai-studio-capabilities">
-            <h2>Part 5: Azure AI Studio Capabilities</h2>
             <section class="question-group">
-                <h3>Multiple Choice Questions</h3>
                 <h4>47. Besides prompt engineering, what key capability does Azure AI Studio offer for building generative AI applications?</h4>
                 <ol type="a">
                     <li>Video editing</li>
@@ -521,7 +506,6 @@
                 </details>
             </section>
             <section class="question-group">
-                <h3>True or False</h3>
                 <h4>51. Azure AI Studio supports only Python for development.</h4>
                 <details>
                     <summary>Show Answer</summary>
@@ -562,9 +546,7 @@
             </section>
         </section>
         <section id="observability-in-generative-ai">
-            <h2>Part 6: Observability in Generative AI</h2>
             <section class="question-group">
-                <h3>Multiple Choice Questions</h3>
                 <h4>56. What is the main goal of "observability" for a deployed generative AI application?</h4>
                 <ol type="a">
                     <li>To monitor and ensure the application is performant, safe, and produces high-quality results.</li>
@@ -611,7 +593,6 @@
                 </details>
             </section>
             <section class="question-group">
-                <h3>True or False</h3>
                 <h4>60. The observability dashboard in Azure AI Studio can provide insights into token consumption and latency.</h4>
                 <details>
                     <summary>Show Answer</summary>
@@ -636,6 +617,17 @@
                 <details>
                     <summary>Show Answer</summary>
                     <p>Correct Answer: True</p>
+                </details>
+           <h4>65. Match the observability metric to its purpose: </h4>
+                    A) Groundedness <br>
+                    B) Coherence <br>
+                    C) Fluency <br><br>
+                    1) Measures how understandable and human-like a model's response is. <br>
+                    2) Measures the linguistic and grammatical correctness of a response. <br>
+                    3) Measures whether a response is based on the provided external data source.
+             <details>
+                    <summary>Show Answer</summary>
+                    <p>Correct Answer: A-3, B-1, C-2</p>
                 </details>
             </section>
         </section>
