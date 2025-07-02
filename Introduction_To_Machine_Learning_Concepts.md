@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>Machine Learning Fundamentals Quiz</h1>
+        <h1>Machine Learning Fundamentals</h1>
     </header>
     <hr class="section-divider">
     <main>
