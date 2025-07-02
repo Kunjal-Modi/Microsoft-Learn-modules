@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8"\>
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Natural Language Processing Fundamentals</title>
-<style>
 <body>
 <header>
 <h1>Natural Language Processing Fundamentals</h1>
@@ -26,7 +24,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>2. Text analysis is described as a part of NLP that focuses on:</h4>
             <ol type="a">
