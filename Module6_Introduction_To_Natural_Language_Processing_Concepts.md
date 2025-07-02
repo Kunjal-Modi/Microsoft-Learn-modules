@@ -10,7 +10,6 @@
 <hr class="section-divider">
 <main>
 <section id="multiple-choice-questions">
-        <div class="module-title">Module 1: Introduction to Natural Language Processing</div>
         <section class="question-group">
             <h4>1. What is the primary focus of Natural Language Processing (NLP)?</h4>
             <ol type="a">
@@ -37,7 +36,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>3. Which of the following is NOT listed as a common use case for NLP text analysis?</h4>
             <ol type="a">
@@ -51,7 +49,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>4. What historical challenge is mentioned regarding NLP before recent AI advancements?</h4>
             <ol type="a">
@@ -65,7 +62,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>5. NLP is a field within which broader discipline?</h4>
             <ol type="a">
@@ -78,8 +74,7 @@
                 <summary>Show Answer</summary>
                 <p>Correct Answer: b)</p>
             </details>
-        </section>
-
+        </section
         <section class="question-group">
             <h4>6. What is the goal of 'speech-to-text' conversion in NLP?</h4>
             <ol type="a">
@@ -93,7 +88,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>7. What is 'text-to-speech' conversion used for?</h4>
             <ol type="a">
@@ -107,7 +101,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>8. 'Machine translation' in NLP involves:</h4>
             <ol type="a">
@@ -121,7 +114,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>9. What is 'text classification' in NLP?</h4>
             <ol type="a">
@@ -135,7 +127,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>10. 'Entity extraction' (also known as Named Entity Recognition) in NLP aims to:</h4>
             <ol type="a">
@@ -149,7 +140,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>11. 'Question answering' in NLP is designed to:</h4>
             <ol type="a">
@@ -163,7 +153,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>12. What is 'text summarization' in NLP?</h4>
             <ol type="a">
@@ -177,7 +166,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>13. Advancements in which field have significantly improved current NLP models?</h4>
             <ol type="a">
@@ -191,7 +179,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>14. What does the introduction imply about the current state of NLP?</h4>
             <ol type="a">
@@ -205,7 +192,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>15. Which aspect of language makes NLP challenging?</h4>
             <ol type="a">
@@ -219,8 +205,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
-        <div class="module-title">Module 2: How Language is Processed</div>
         <section class="question-group">
             <h4>16. What is the primary method discussed for computers to analyze text?</h4>
             <ol type="a">
@@ -234,7 +218,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>17. What is a 'corpus' in the context of NLP?</h4>
             <ol type="a">
@@ -248,7 +231,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>18. What is the first step in text analysis mentioned?</h4>
             <ol type="a">
@@ -262,7 +244,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>19. What are 'tokens' in the context of tokenization?</h4>
             <ol type="a">
@@ -276,7 +257,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>20. Which of the following is a key concept in tokenization for NLP?</h4>
             <ol type="a">
@@ -290,7 +270,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>21. What does 'text normalization' typically involve?</h4>
             <ol type="a">
@@ -304,7 +283,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>22. What is a potential drawback of aggressive text normalization (e.g., removing all punctuation and converting to lowercase)?</h4>
             <ol type="a">
@@ -318,7 +296,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>23. What is the purpose of 'stop word removal'?</h4>
             <ol type="a">
@@ -332,7 +309,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>24. What are 'n-grams'?</h4>
             <ol type="a">
@@ -346,7 +322,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>25. What is a 'unigram'?</h4>
             <ol type="a">
@@ -360,7 +335,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>26. What does 'stemming' aim to achieve?</h4>
             <ol type="a">
@@ -374,7 +348,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>27. When is 'text normalization' generally beneficial for NLP analyses?</h4>
             <ol type="a">
@@ -388,7 +361,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>28. Why are 'n-grams' important for machine learning models?</h4>
             <ol type="a">
@@ -402,7 +374,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>29. If you process the phrase "we choose to go to the moon" into tokens, how many distinct tokens are mentioned in the example?</h4>
             <ol type="a">
@@ -416,7 +387,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>30. What is a 'bi-gram'?</h4>
             <ol type="a">
@@ -430,8 +400,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
-        <div class="module-title">Module 3: Statistical Techniques for NLP</div>
         <section class="question-group">
             <h4>31. Which two statistical techniques are highlighted as foundational for NLP?</h4>
             <ol type="a">
@@ -445,7 +413,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>32. Naïve Bayes was first used for what application?</h4>
             <ol type="a">
@@ -459,7 +426,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>33. How do Naïve Bayes classifiers typically identify spam emails?</h4>
             <ol type="a">
@@ -473,7 +439,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>34. What are 'bag-of-words' features in the context of Naïve Bayes?</h4>
             <ol type="a">
@@ -487,7 +452,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>35. What was a limitation of Naïve Bayes compared to more advanced techniques?</h4>
             <ol type="a">
@@ -501,7 +465,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>36. What does TF-IDF stand for?</h4>
             <ol type="a">
@@ -515,7 +478,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>37. How does TF-IDF compare the frequency of words?</h4>
             <ol type="a">
@@ -529,7 +491,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>38. What is TF-IDF often used for?</h4>
             <ol type="a">
@@ -543,7 +504,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>39. In TF-IDF, what characteristic leads to a high degree of relevance for a word?</h4>
             <ol type="a">
@@ -557,7 +517,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>40. If simple frequency analysis (counting token occurrences) is effective for a single document, when do you need TF-IDF?</h4>
             <ol type="a">
@@ -571,7 +530,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>41. What is an example of a common spam word according to the Naïve Bayes example?</h4>
             <ol type="a">
@@ -585,7 +543,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>42. How did Naïve Bayes improve upon simple rule-based models for text classification?</h4>
             <ol type="a">
@@ -599,7 +556,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>43. What could be surmised from a text corpus if the most common bi-gram is "the moon"?</h4>
             <ol type="a">
@@ -613,7 +569,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>44. What does the "Term Frequency" part of TF-IDF measure?</h4>
             <ol type="a">
@@ -627,7 +582,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>45. What does the "Inverse Document Frequency" part of TF-IDF measure?</h4>
             <ol type="a">
@@ -641,9 +595,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
-        <div class="module-title">Module 4: Semantic Language Models</div>
-        <section class="question-group">
             <h4>46. What do deep learning language models use to encapsulate semantic relationships between tokens?</h4>
             <ol type="a">
                 <li>Simple alphabetical sorting</li>
@@ -656,7 +607,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>47. What do 'embeddings' represent in a multidimensional space?</h4>
             <ol type="a">
@@ -670,7 +620,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>48. According to the example, how do the vectors for "dog" and "bark" relate in terms of orientation?</h4>
             <ol type="a">
@@ -684,7 +633,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>49. How do vectors for unrelated words like "dog" and "skateboard" appear?</h4>
             <ol type="a">
@@ -698,7 +646,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>50. What is true about industry-used language models regarding vectors?</h4>
             <ol type="a">
@@ -712,7 +659,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>51. What can lead to different predictions from NLP models, even with the same data?</h4>
             <ol type="a">
@@ -726,7 +672,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>52. What type of data is typically used to train language models for various NLP tasks?</h4>
             <ol type="a">
@@ -740,7 +685,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>53. Which machine learning algorithm is specifically mentioned for text classification?</h4>
             <ol type="a">
@@ -754,7 +698,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>54. What is a common application of text classification mentioned in the context of semantic models?</h4>
             <ol type="a">
@@ -768,7 +711,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>55. In the restaurant review example, what does a label of '1' typically indicate?</h4>
             <ol type="a">
@@ -782,7 +724,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>56. How does a classification model learn the relationship between tokens and sentiment?</h4>
             <ol type="a">
@@ -796,7 +737,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>57. What is the fundamental idea behind encoding language tokens as vectors?</h4>
             <ol type="a">
@@ -810,7 +750,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>58. What happens to the 'raw text' in the generalized view of training language models?</h4>
             <ol type="a">
@@ -824,7 +763,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>59. If a review is labeled '0' in the sentiment analysis example, what does that signify?</h4>
             <ol type="a">
@@ -838,7 +776,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>60. What is the overall goal of semantic language models?</h4>
             <ol type="a">
@@ -852,7 +789,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>61. Which characteristic of vectors is key to representing semantic relationships in embeddings?</h4>
             <ol type="a">
@@ -866,7 +802,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>62. Why are different methods for calculating embeddings used?</h4>
             <ol type="a">
@@ -880,7 +815,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>63. What kind of learning is text classification with labeled data (like sentiment analysis)?</h4>
             <ol type="a">
@@ -894,7 +828,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>64. What is implied by the term "semantic" in semantic language models?</h4>
             <ol type="a">
@@ -908,7 +841,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>65. Which words from the restaurant review example are indicative of positive sentiment?</h4>
             <ol type="a">
@@ -922,7 +854,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>66. What type of model learns to classify text based on known categorizations?</h4>
             <ol type="a">
@@ -936,7 +867,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>67. The concept of embeddings is a bridge between which two representations of language?</h4>
             <ol type="a">
@@ -950,7 +880,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>68. What is the advantage of using embeddings over simple word counts for semantic understanding?</h4>
             <ol type="a">
@@ -964,7 +893,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>69. In a general NLP pipeline, after tokenization, what typically follows as part of training language models?</h4>
             <ol type="a">
@@ -978,7 +906,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>70. Which of the following is an example of a token that might have a similar embedding to "run"?</h4>
             <ol type="a">
@@ -992,7 +919,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>71. What kind of dataset is essential for training text classification models like logistic regression?</h4>
             <ol type="a">
@@ -1006,7 +932,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>72. What concept allows for representing words in a way that captures their meaning and relationship to other words?</h4>
             <ol type="a">
@@ -1020,7 +945,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>73. What is the fundamental difference in purpose between TF-IDF and semantic language models (using embeddings)?</h4>
             <ol type="a">
@@ -1034,7 +958,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>74. What kind of neural networks are typically used to create high-dimensional embeddings in modern NLP?</h4>
             <ol type="a">
@@ -1048,7 +971,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>75. If "cat" and "meow" have similar vector orientations, what does this imply?</h4>
             <ol type="a">
@@ -1062,7 +984,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>76. What is the benefit of a model understanding semantic relationships?</h4>
             <ol type="a">
@@ -1076,7 +997,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>77. What is a key difference between Naïve Bayes' 'bag-of-words' and semantic embeddings?</h4>
             <ol type="a">
@@ -1090,7 +1010,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>78. The complexity of industry-used language models suggests they:</h4>
             <ol type="a">
@@ -1104,7 +1023,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>79. Why is sentiment analysis a good example for explaining text classification?</h4>
             <ol type="a">
@@ -1118,7 +1036,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>80. How do modern semantic models often learn their embeddings?</h4>
             <ol type="a">
@@ -1132,7 +1049,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>81. What does it mean for tokens to have "similar orientations" in embedding space?</h4>
             <ol type="a">
@@ -1146,7 +1062,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>82. Which aspect of text analysis is significantly enhanced by semantic models compared to purely statistical methods?</h4>
             <ol type="a">
@@ -1160,7 +1075,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>83. What kind of problem is "classifying handwritten digits from 0 to 9" an example of?</h4>
             <ol type="a">
@@ -1174,7 +1088,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>84. What happens if a word is very common across an entire corpus, according to TF-IDF?</h4>
             <ol type="a">
@@ -1188,7 +1101,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>85. How do semantic models typically process new, unseen text?</h4>
             <ol type="a">
@@ -1202,7 +1114,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>86. What is the broader implication of using semantic models for tasks like question answering?</h4>
             <ol type="a">
@@ -1216,7 +1127,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>87. What is a key advantage of deep learning in NLP compared to earlier statistical methods?</h4>
             <ol type="a">
@@ -1230,7 +1140,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>88. What does "unstructured text" refer to in NLP?</h4>
             <ol type="a">
@@ -1244,7 +1153,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>89. Why is understanding the 'context' of words crucial in NLP?</h4>
             <ol type="a">
@@ -1258,7 +1166,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>90. What kind of problem would be suitable for a model trained on a large corpus of medical research papers?</h4>
             <ol type="a">
@@ -1272,7 +1179,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>91. The evolution from Naïve Bayes to semantic models demonstrates a shift from:</h4>
             <ol type="a">
@@ -1286,7 +1192,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>92. How does the dimensionality of vectors affect the complexity and capability of language models?</h4>
             <ol type="a">
@@ -1300,7 +1205,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>93. What is the general idea of training a language model for "various NLP tasks"?</h4>
             <ol type="a">
@@ -1314,7 +1218,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>94. What is a key component required for successful text classification using machine learning?</h4>
             <ol type="a">
@@ -1328,7 +1231,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>95. In the context of NLP, what does "generalized view" of language model training imply?</h4>
             <ol type="a">
@@ -1342,7 +1244,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>96. What is the significance of the phrase "a large corpus of raw text" for training modern language models?</h4>
             <ol type="a">
@@ -1356,7 +1257,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>97. When comparing "cat" and "meow" vs. "dog" and "skateboard" in embedding space, what is the core concept being illustrated?</h4>
             <ol type="a">
@@ -1370,7 +1270,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>98. What is the role of the training process in developing semantic models?</h4>
             <ol type="a">
@@ -1384,7 +1283,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>99. What does the term 'tokens' ultimately represent once encoded as embeddings?</h4>
             <ol type="a">
@@ -1398,7 +1296,6 @@
                 <p>Correct Answer: c)</p>
             </details>
         </section>
-
         <section class="question-group">
             <h4>100. Why are deep learning techniques essential for current semantic models?</h4>
             <ol type="a">
@@ -1412,7 +1309,6 @@
                 <p>Correct Answer: b)</p>
             </details>
         </section>
-
     </section>
 </main>
 </body>
