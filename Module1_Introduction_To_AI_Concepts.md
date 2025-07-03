@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <a href="https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/"><h1>AI Fundamentals</h1></a>
+        <h1><a href="https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/">AI Fundamentals</a></h1>
     </header>
     <hr class="section-divider">
     <main>
