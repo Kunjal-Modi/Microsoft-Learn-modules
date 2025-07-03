@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>Machine Learning Fundamentals</h1>
+        <h1><a href="https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/">Machine Learning Fundamentals</a></h1>
     </header>
     <hr class="section-divider">
     <main>
