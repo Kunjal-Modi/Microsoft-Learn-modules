@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body>
     <header>
-        <h1>Azure AI Speech Fundamentals</h1>
+        <h1><a href="https://learn.microsoft.com/en-us/training/modules/recognize-synthesize-speech/">Azure AI Speech Fundamentals</a></h1>
     </header>
     <hr class="section-divider">
     <main>
