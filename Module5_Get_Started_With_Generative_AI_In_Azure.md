@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body>
     <header>
-        <h1>Generative AI on Azure</h1>
+        <h1><a href="https://learn.microsoft.com/en-us/training/modules/get-started-generative-ai-azure/">Generative AI on Azure</a></h1>
     </header>
     <hr class="section-divider">
     <main>
