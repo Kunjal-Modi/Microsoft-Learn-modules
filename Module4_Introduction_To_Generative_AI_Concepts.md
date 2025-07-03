@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body>
     <header>
-        <h1>Generative AI Fundamentals</h1>
+        <h1><a href="https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/">Generative AI Fundamentals</a></h1>
     </header>
     <hr class="section-divider">
     <main>
