@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>Computer Vision Fundamentals</h1>
+        <h1><a href="https://learn.microsoft.com/en-us/training/modules/introduction-computer-vision/">Computer Vision Fundamentals</a></h1>
     </header>
     <hr class="section-divider">
     <main>
