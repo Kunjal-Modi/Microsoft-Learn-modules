@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>Generative AI Fundamentals</h1>
+        <h1>Getting Started with Azure Computer Vision</h1>
     </header>
     <hr class="section-divider">
     <main>
