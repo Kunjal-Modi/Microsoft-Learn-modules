@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>Getting Started with Azure Computer Vision</h1>
+        <h1><a href="https://learn.microsoft.com/en-us/training/modules/get-started-computer-vision-azure/">Getting Started with Azure Computer Vision</a></h1>
     </header>
     <hr class="section-divider">
     <main>
