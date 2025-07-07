@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>Information Extraction with AI</h1>
+        <h1><a href="https://learn.microsoft.com/en-us/training/modules/introduction-information-extraction/">Information Extraction with AI</a></h1>
     </header>
     <hr class="section-divider">
     <main>
